@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Facial-Recognition-master/Facial-Recognition/src"/>
+	<classpathentry kind="lib" path="Facial-Recognition-master/lib/jFreeChart/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="Facial-Recognition-master/lib/jFreeChart/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="Facial-Recognition-master/lib/jFreeChart/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="Facial-Recognition-master/lib/jFreeChart/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="Facial-Recognition-master/lib/jFreeChart/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="Facial-Recognition-master/lib/jFreeChart/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry kind="lib" path="Facial-Recognition-master/lib/jFreeChart/orsonpdf-1.6-eval.jar"/>
+	<classpathentry kind="lib" path="Facial-Recognition-master/lib/jFreeChart/servlet.jar"/>
+	<classpathentry kind="lib" path="Facial-Recognition-master/lib/jFreeChart/swtgraphics2d.jar"/>
+	<classpathentry kind="lib" path="Facial-Recognition-master/lib/KControls.jar"/>
+	<classpathentry kind="lib" path="Facial-Recognition-master/lib/mysql-connector-java-5.1.47.jar"/>
+	<classpathentry kind="lib" path="Facial-Recognition-master/lib/prettytime-4.0.2.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Java Advanced/Java Projects/jar_files.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
